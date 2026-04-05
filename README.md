@@ -22,49 +22,43 @@ As seguintes fontes foram utilizadas como base para o estudo:
 **Engenharia de Prompts e "Cicatrizes"**
 Durante o uso do NotebookLM, foram realizados diversos testes para extrair informações relevantes.
 
-🧠 Exemplos de Prompts Utilizados
+Exemplos de Prompts Utilizados
 "Quais fatores mais impactam a valorização de imóveis antigos?"
 "Como reformas influenciam o preço de venda de um imóvel?"
 "Quais métodos são usados para avaliação imobiliária?"
 "Quais variáveis impactam o preço de imóveis em São Paulo?"
 
-🔄 Iterações de Prompts
-
-Prompt inicial:
-"Como valorizar um imóvel?"
-🔻 Problema: resposta genérica demais
-Prompt refinado:
-"Quais estratégias específicas aumentam o valor de imóveis antigos em áreas urbanas?"
-✅ Resultado: respostas mais técnicas e aplicáveis
-
-**⚠️ Dificuldades Encontradas**
+** Dificuldades Encontradas**
 - Filtrar resultados específicos para a cidade de São Paulo
 - Respostas muito genéricas no início
 - Necessidade de refinar prompts para obter dados mais técnicos
 
-**🛠️ Estratégias de Solução (Troubleshooting)**
+** Estratégias de Solução (Troubleshooting)**
 - Uso de prompts mais específicos (localização, tipo de imóvel)
 - Cruzamento de fontes acadêmicas com conteúdo prático
 - Refinamento iterativo das perguntas
 
-**📖 Miniguia de Estudo**
-🧾 1. Resumo Estruturado
+** Miniguia de Estudo**
+1. Resumo Estruturado
 
 A valorização de imóveis depende de múltiplos fatores:
 
-🏗️ Fatores físicos
+Fatores físicos
 Estado de conservação
 Qualidade da construção
 Modernização (cozinha, banheiro, fachada)
-📍 Localização
+
+Localização
 Infraestrutura urbana
 Segurança
 Proximidade de serviços
-💰 Mercado
+
+Mercado
 Oferta e demanda
 Tendências econômicas
 Taxas de juros
-🔧 Reformas estratégicas
+
+Reformas estratégicas
 Pequenas reformas podem gerar alto retorno
 Cozinha e banheiro são os ambientes mais valorizados
 Pintura e iluminação têm alto impacto visual com baixo custo
