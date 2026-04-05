@@ -13,15 +13,11 @@ O objetivo principal é:
 **Curadoria de Fontes:**
 As seguintes fontes foram utilizadas como base para o estudo:
 
-🎥 Como aumentar o valor de venda do imóvel com reformas e melhorias
-https://www.youtube.com/watch?v=dDVWXHMHTww
-🎥 Como SUPER VALORIZAR um imóvel com uma REFORMA?
-https://www.youtube.com/watch?v=rvdxaygacg4
-📄 Avaliação de Imóveis e suas valorizações (PDF)
-📄 Método para determinação de valores na avaliação imobiliária
-https://www.scielo.br/j/bcg/a/mfw35HD9rZcMHRrynbCFHrH/?format=pdf&lang=pt
-📄 Determinantes dos preços de imóveis residenciais verticais em São Paulo
-https://www.anpec.org.br/encontro/2012/inscricao/files_I/i9-3a7b8f1858120e2757d222a38932e7c6.pdf
+- 🎥 Como aumentar o valor de venda do imóvel com reformas e melhorias (https://www.youtube.com/watch?v=dDVWXHMHTww_
+- 🎥 Como SUPER VALORIZAR um imóvel com uma REFORMA? (https://www.youtube.com/watch?v=rvdxaygacg4)
+- 📄 Avaliação de Imóveis e suas valorizações (PDF)
+- 📄 Método para determinação de valores na avaliação imobiliária (https://www.scielo.br/j/bcg/a/mfw35HD9rZcMHRrynbCFHrH/?format=pdf&lang=pt)
+- 📄 Determinantes dos preços de imóveis residenciais verticais em São Paulo (https://www.anpec.org.br/encontro/2012/inscricao/files_I/i9-3a7b8f1858120e2757d222a38932e7c6.pdf)
 
 **Engenharia de Prompts e "Cicatrizes"**
 Durante o uso do NotebookLM, foram realizados diversos testes para extrair informações relevantes.
